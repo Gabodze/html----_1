@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/Inter-Bold.ttf );
+}
+
+
+label{
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+    margin-top: 16px;
+}
+input{
+    margin-top: 10px;
+}
+
